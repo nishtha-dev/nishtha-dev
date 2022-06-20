@@ -55,7 +55,7 @@
    </tr> 
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=nishtha-dev&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-      <td> <img display=block align="right" width="400px" height="250px" src="https://www.keepsolid.com/blog/wp-content/uploads/2018/12/giphy-article-top-tools-for-managers.gif" alt="coder">
+      <td> <img display=block align="right"  height= "250px" width="400px" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif" alt="coder">
        </td>
   </tr>
   
