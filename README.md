@@ -4,7 +4,7 @@
 
 
   
-<img align="right" alt="Coding" height= "400" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif">
+<img align="right" alt="Coding" height= "300" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka001tech&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka001tech" /> </p>
 
