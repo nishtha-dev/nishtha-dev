@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nishtha-saraswat/" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishtha-saraswat" height="30" width="40" /> &nbsp; </a>
-<a href="https://www.github.com/ChetasShree" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="nishtha-saraswat" height="30" width="40" /> &nbsp; </a>
+<a href="https://github.com/nishtha-dev" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="nishtha-saraswat" height="30" width="40" /> &nbsp; </a>
 <a href="#" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanka kothari" height="30" width="40" /> &nbsp; </a>
 <a href="#" target="blank"> &nbsp; <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nicks" height="30" width="40" /> &nbsp; </a>
 <a href="https://medium.com/@nishtha-saraswat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nishtha-saraswat" height="50" width="60" /></a>
