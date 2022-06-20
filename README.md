@@ -48,9 +48,9 @@
    </tr> 
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=nishtha-dev&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-      <td>
+      <td><img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"  display=block align="right" width="400px" height="250px">
         
-     <img display=block align="right" width="400px" height="250px" src="https://www.keepsolid.com/blog/wp-content/uploads/2018/12/giphy-article-top-tools-for-managers.gif" alt="coder">
+
 
      </td>
   </tr>
