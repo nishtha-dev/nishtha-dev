@@ -20,11 +20,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/priyanka-k-751aot2020/" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanka kothari" height="30" width="40" /> &nbsp; </a>
+<a href="https://www.linkedin.com/in/nishtha-saraswat/" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishtha-saraswat" height="30" width="40" /> &nbsp; </a>
 <a href="#" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanka kothari" height="30" width="40" /> &nbsp; </a>
-<a href="#" target="blank"> &nbsp; <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="priyanka751" height="30" width="40" /> &nbsp; </a>
-<a href="#" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanka kothari" height="30" width="40" /> &nbsp; </a>
-<a href="#" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="coderocks" height="30" width="40" /> &nbsp; </a>
+<a href="#" target="blank"> &nbsp; <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nicks" height="30" width="40" /> &nbsp; </a>
+<a href="https://medium.com/@nishtha-saraswat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nishtha-saraswat" height="50" width="60" /></a>
+<a href="https://www.hackerrank.com/nishthasaraswat1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pragatikri31" height="50" width="60" /></a>
+<a href="https://leetcode.com/NishthaS13/" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishtha saraswat" height="30" width="40" /> &nbsp; </a>
+<a href="#" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nicks" height="30" width="40" /> &nbsp; </a>
 </p>
  
 <h3 align="left">Languages and Tools:</h3>
@@ -41,11 +43,11 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=priyanka001tech&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka001tech&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=nishtha-dev&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishtha-dev&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
    </tr> 
    <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka001tech&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=nishtha-dev&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
       <td><img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"  display=block align="right" width="400px" height="250px"></td>
   </tr>
   
@@ -55,10 +57,10 @@
 
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanka001tech&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishtha-dev&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
    <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=priyanka001tech&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=nishtha-dev&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
   </td>
   </tr>
 </table>
