@@ -4,7 +4,10 @@
 
 
   
-<img align="right" alt="Coding" height= "265" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif">
+
+
+
+<img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"  display=block align="right" width="400px" height="250px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka001tech&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka001tech" /> </p>
 
