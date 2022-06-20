@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Priyanka</h1>  
-<h3 align="center">A passionate web developer from India</h3>
+<h1 align="center">Hi 👋, I'm Nishtha</h1>  
+<h3 align="center">A passionate application developer from India</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka001tech&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka001tech" /> </p>
 <img align="right" width="350px" height="300px" src="https://www.keepsolid.com/blog/wp-content/uploads/2018/12/giphy-article-top-tools-for-managers.gif" alt="coder">
 
-- 🌱 I’m currently learning **Frontend Development** 
+- 🌱 I’m currently learning **Flutter and NodeJs Development** 
 
 - 🌱 Learning **Data Structure and Alogorithm**
 
 - 🌱 Participate in **CodeChef Contests**
 
-- 📫 How to reach me **priyankakothari751@gmail.com**
+- 📫 How to reach me **nishthasaraswat15@gmail.com**
 
-- ⚡ Fun fact **I think I'm Funny ;)**
+- ⚡ Fun fact **I love to complete whatever I started and that too by learning everything about it, even if it takes lot of time ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
