@@ -32,7 +32,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> &nbsp; </a>
-  
 <code><img src="https://user-images.githubusercontent.com/75165587/132661148-e0ab1572-56bf-4f24-b77e-df45b313c9c4.png" alt="git" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="git" width="40" height="40"/></code>
 <a href="https://www.cprogramming.com/" target="_blank"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> &nbsp; </a>
