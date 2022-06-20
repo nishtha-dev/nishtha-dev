@@ -6,6 +6,9 @@
   
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif">
 
+  👁 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/nishtha-dev/count.svg?align=center)
+
 - 🌱 I’m currently learning **Flutter and NodeJs Development** 
 
 - 🌱 Learning **Data Structure and Alogorithm**
