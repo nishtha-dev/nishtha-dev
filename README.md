@@ -2,7 +2,9 @@
 <h3 align="center">A passionate application developer from India</h3>
 
 
-  <img src="https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/image/Developer.gif?raw=true" width="1000px"> 
+
+  
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif">
 
 - 🌱 I’m currently learning **Flutter and NodeJs Development** 
 
